@@ -3,7 +3,8 @@
 Computer Science student at Carleton University with a background in Life Sciences.
 
 ## Experience
-**Webmaster** (Jul 2021 - Present)\
+**Webmaster** \
+Jul 2021 - Present\
 Carleton Science Student Society
 - Redesigned Carleton Science Student Society website using UI/UX best practices.
 - Maintain and update website on a regular basis.
