@@ -5,6 +5,9 @@ Computer Science student at Carleton University with a background in Life Scienc
 ## Experience
 **Teaching Assistant** (Jan 2021 - Apr 2021)\
 Carleton University
+- Course: Introduction to Computer Science I
+- Conduct office hours and tutorials to assist students with coursework.
+- Grade assessments and provide feedback to students.
 
 ```markdown
 Syntax highlighted code block
