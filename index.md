@@ -12,7 +12,7 @@ Carleton Science Student Society
 
 **Teaching Assistant**\
 Jan 2021 - Apr 2021\
-Carleton University\
+Carleton University
 - Course: Introduction to Computer Science I
 - Conduct office hours and tutorials to assist students with coursework.
 - Grade assessments and provide feedback to students.
@@ -32,44 +32,21 @@ RBC Royal Bank
 - Managed risk and compliance routines while carrying out transactions for clients.
 
 ## Education
-**Carleton University** Ottawa, ON \
+**Carleton University** - _Ottawa, ON_\
 Sep 2019 - Present\
 Bachelor of Computer Science
 - GPA: 11.33/12.00
 - Expected Graduation: May 2022
 - Relevant Coursework: Fundamentals of Web Applications, Abstract Data Structures and Algorithms, Discrete
-Structures I and II, Introduction to Systems Programming, Introduction to Software Engineering, Database Management Systems, Programming Paradigms.
+Structures I and II, Introduction to Systems Programming, Introduction to Software Engineering, Database Management Systems, Programming Paradigms
 
-**McGill University** Montreal, QC\
+**McGill University** - _Montreal, QC_\
 Sep 2011 - Oct 2015\
-- Redesigned Carleton Science Student Society website using UI/UX best practices.
-- Maintain and update website on a regular basis.
-- Edit and curate content submitted by the Science Society Team.
+Bachelor of Science
+- Major in Anatomy and Cell Biology
+- Graduated in 2015
 
-```markdown
-Syntax highlighted code block
+## Languages and Technologies
+- JavaScript, Java, Python, C/C++, Scheme, Prolog, HTML, CSS
+- React, Node.js, Express, SQL, NoSQL, MongoDB, SQLite, Git/Github, Bootstrap. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/myronhuang/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
