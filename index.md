@@ -37,8 +37,6 @@ Sep 2019 - Present\
 Bachelor of Computer Science
 - GPA: 11.33/12.00
 - Expected Graduation: May 2022
-- Relevant Coursework: Fundamentals of Web Applications, Abstract Data Structures and Algorithms, Discrete
-Structures I and II, Introduction to Systems Programming, Introduction to Software Engineering, Database Management Systems, Programming Paradigms
 
 **McGill University** - _Montreal, QC_\
 Sep 2011 - Oct 2015\
@@ -49,4 +47,13 @@ Bachelor of Science
 ## Languages and Technologies
 - JavaScript, Java, Python, C/C++, Scheme, Prolog, HTML, CSS
 - React, Node.js, Express, SQL, NoSQL, MongoDB, SQLite, Git/Github, Bootstrap. 
+
+## Relevant Coursework
+- Fundamentals of Web Applications
+- Abstract Data Structures and Algorithms
+- Discrete Structures I and II
+- Introduction to Systems Programming
+- Introduction to Software Engineering
+- Database Management Systems
+- Programming Paradigms
 
