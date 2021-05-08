@@ -10,8 +10,9 @@ Carleton Science Student Society
 - Maintain and update website on a regular basis.
 - Edit and curate content submitted by the Science Society Team.
 
-**Teaching Assistant** @ Carleton University\
+**Teaching Assistant**\
 Jan 2021 - Apr 2021\
+Carleton University\
 - Course: Introduction to Computer Science I
 - Conduct office hours and tutorials to assist students with coursework.
 - Grade assessments and provide feedback to students.
@@ -31,9 +32,16 @@ RBC Royal Bank
 - Managed risk and compliance routines while carrying out transactions for clients.
 
 ## Education
-**Webmaster** \
-Jul 2021 - Present\
-Carleton Science Student Society
+**Carleton University** Ottawa, ON \
+Sep 2019 - Present\
+Bachelor of Computer Science
+- GPA: 11.33/12.00
+- Expected Graduation: May 2022
+- Relevant Coursework: Fundamentals of Web Applications, Abstract Data Structures and Algorithms, Discrete
+Structures I and II, Introduction to Systems Programming, Introduction to Software Engineering, Database Management Systems, Programming Paradigms.
+
+**McGill University** Montreal, QC\
+Sep 2011 - Oct 2015\
 - Redesigned Carleton Science Student Society website using UI/UX best practices.
 - Maintain and update website on a regular basis.
 - Edit and curate content submitted by the Science Society Team.
