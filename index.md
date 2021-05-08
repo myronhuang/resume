@@ -3,13 +3,26 @@
 Computer Science student at Carleton University with a background in Life Sciences.
 
 ## Experience
-**Webmaster**             (Jan 2021 - Apr 2021)\
+**Webmaster**                      (Jan 2021 - Apr 2021)\
 Carleton Science Student Society
 - Redesigned Carleton Science Student Society website using UI/UX best practices.
 - Maintain and update website on a regular basis.
 - Edit and curate content submitted by the Science Society Team.
 
-**Teaching Assistant**    (Jan 2021 - Apr 2021)\
+**Teaching Assistant**             (Jan 2021 - Apr 2021)\
+Carleton University
+- Course: Introduction to Computer Science I
+- Conduct office hours and tutorials to assist students with coursework.
+- Grade assessments and provide feedback to students.
+
+**Customer Support Specialist**    (Jan 2021 - Apr 2021)\
+Carleton University
+- Course: Introduction to Computer Science I
+- Conduct office hours and tutorials to assist students with coursework.
+- Grade assessments and provide feedback to students.
+
+
+**Banking Advisor**                (Jan 2021 - Apr 2021)\
 Carleton University
 - Course: Introduction to Computer Science I
 - Conduct office hours and tutorials to assist students with coursework.
