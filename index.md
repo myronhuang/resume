@@ -1,10 +1,10 @@
 # Myron Huang
 
-Computer Science student at Carleton University.
+Computer Science student at Carleton University with a background in Life Sciences.
 
-### Education
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experience
+**Teaching Assistant** (Jan 2021 - Apr 2021)\
+Carleton University
 
 ```markdown
 Syntax highlighted code block
