@@ -2,7 +2,7 @@
 
 Computer Science student at Carleton University with a background in Life Sciences.
 
-[Portfolio](https://www.linkedin.com/in/myronhuang/) - [LinkedIn](https://www.linkedin.com/in/myronhuang/) - [GitHub](https://www.linkedin.com/in/myronhuang/)
+[Portfolio](https://myronhuang.github.io/portfolio/) - [LinkedIn](https://www.linkedin.com/in/myronhuang/) - [GitHub](https://github.com/myronhuang)
 
 ## Experience
 **Webmaster** \
