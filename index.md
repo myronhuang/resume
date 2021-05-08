@@ -10,9 +10,8 @@ Carleton Science Student Society
 - Maintain and update website on a regular basis.
 - Edit and curate content submitted by the Science Society Team.
 
-**Teaching Assistant**\
+**Teaching Assistant** @ Carleton University\
 Jan 2021 - Apr 2021\
-Carleton University
 - Course: Introduction to Computer Science I
 - Conduct office hours and tutorials to assist students with coursework.
 - Grade assessments and provide feedback to students.
@@ -24,7 +23,7 @@ Wave Financial Inc.
 - Developed and led training sessions for new and existing employees.
 - Provided technical advice and support to small business owners over email, live chat, phone and through the Wave online community.
 
-**Banking Advisor**
+**Banking Advisor**\
 Apr 2018 - Nov 2018\
 RBC Royal Bank
 - Provided financial advice to new and existing clients.
