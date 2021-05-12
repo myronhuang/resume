@@ -37,7 +37,7 @@ RBC Royal Bank
 **Carleton University** - _Ottawa, ON_\
 Sep 2019 - Present\
 Bachelor of Computer Science
-- GPA: 11.33/12.00
+- GPA: 11.40/12.00
 - Expected Graduation: May 2022
 
 **McGill University** - _Montreal, QC_\
