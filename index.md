@@ -47,7 +47,7 @@ Bachelor of Science
 - Graduated in 2015
 
 ## Languages and Technologies
-- JavaScript, Java, Python, C/C++, Scheme, Prolog, HTML, CSS
+- JavaScript, TypeScript, Java, Python, C/C++, Scheme, Prolog, HTML, CSS
 - React, Node.js, Express, SQL, NoSQL, MongoDB, SQLite, Git/Github, Bootstrap. 
 
 ## Relevant Coursework
