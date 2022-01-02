@@ -16,8 +16,8 @@ Carleton Science Student Society
 Jan 2021 - Apr 2021\
 Carleton University
 - Course: Introduction to Computer Science I
-- Conduct office hours and tutorials to assist students with coursework.
-- Grade assessments and provide feedback to students.
+- Conducted office hours and tutorials to assist students with coursework.
+- Graded assessments and provided feedback to students.
 
 **Customer Support Specialist**\
 Nov 2018 - Aug 2019\
@@ -29,15 +29,15 @@ Wave Financial Inc.
 **Banking Advisor**\
 Apr 2018 - Nov 2018\
 RBC Royal Bank
-- Provided financial advice to new and existing clients.
-- Matched clients with appropriate products and services based on their needs.
-- Managed risk and compliance routines while carrying out transactions for clients.
+- Provided advice to new and existing clients.
+- Assisted clients with banking transactions.
+- Recommended products and services to clients to meet their needs.
 
 ## Education
 **Carleton University** - _Ottawa, ON_\
 Sep 2019 - Present\
 Bachelor of Computer Science
-- GPA: 11.40/12.00
+- Dean's List
 - Expected Graduation: May 2022
 
 **McGill University** - _Montreal, QC_\
@@ -58,4 +58,6 @@ Bachelor of Science
 - Introduction to Software Engineering
 - Database Management Systems
 - Programming Paradigms
+- Human Computer Interaction
+- Introduction to Theory of Computation
 
