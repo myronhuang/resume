@@ -5,6 +5,10 @@ Computer Science student at Carleton University with a background in Life Scienc
 [Portfolio](https://myronhuang.github.io/portfolio/) - [LinkedIn](https://www.linkedin.com/in/myronhuang) - [GitHub](https://github.com/myronhuang)
 
 ## Experience
+**Software Developer Intern**
+Feb 2022 - Present
+Revelio Labs
+
 **Webmaster** \
 Jul 2021 - Present\
 Carleton Science Student Society
