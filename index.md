@@ -5,7 +5,8 @@ Computer Science student at Carleton University with a background in Life Scienc
 [Portfolio](https://myronhuang.github.io/portfolio/) - [LinkedIn](https://www.linkedin.com/in/myronhuang) - [GitHub](https://github.com/myronhuang)
 
 ## Experience
-**Software Developer, Intern**\
+
+**Software Developer**\
 Feb 2022 - Present\
 Revelio Labs
 - Contributed code to assist with the development of ongoing projects.
@@ -41,10 +42,10 @@ RBC Royal Bank
 
 ## Education
 **Carleton University** - _Ottawa, ON_\
-Sep 2019 - Present\
+Sep 2019 - May 2022\
 Bachelor of Computer Science
 - Dean's List
-- Expected Graduation: May 2022
+- GPA: 11.42/12.00
 
 **McGill University** - _Montreal, QC_\
 Sep 2011 - Oct 2015\
@@ -66,4 +67,6 @@ Bachelor of Science
 - Programming Paradigms
 - Human Computer Interaction
 - Introduction to Theory of Computation
+- Operating Systems
+- Object-Oriented Software Engineering
 
