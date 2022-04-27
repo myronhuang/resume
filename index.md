@@ -13,7 +13,7 @@ Revelio Labs
 - Collaborated with teammates to solve problems and implement deliverables.
 
 **Webmaster** \
-Jul 2021 - Present\
+Jul 2021 - May 2022\
 Carleton Science Student Society
 - Redesigned Carleton Science Student Society website using UI/UX best practices.
 - Maintain and update website on a regular basis.
