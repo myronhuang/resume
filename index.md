@@ -51,7 +51,6 @@ Bachelor of Computer Science
 Sep 2011 - Oct 2015\
 Bachelor of Science
 - Major in Anatomy and Cell Biology
-- Graduated in 2015
 
 ## Languages and Technologies
 - JavaScript, TypeScript, Java, Python, C/C++, Scheme, Prolog, HTML, CSS
