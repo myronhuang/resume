@@ -53,7 +53,7 @@ Bachelor of Science
 - Major in Anatomy and Cell Biology
 
 ## Languages and Technologies
-- JavaScript, TypeScript, Java, Python, C/C++, Scheme, Prolog, HTML, CSS
+- JavaScript, TypeScript, Java, Python, C/C++, HTML, CSS
 - React, Node.js, Express, SQL, NoSQL, MongoDB, SQLite, Git/Github, Bootstrap. 
 
 ## Relevant Coursework
