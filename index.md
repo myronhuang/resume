@@ -45,7 +45,7 @@ RBC Royal Bank
 Sep 2019 - May 2022\
 Bachelor of Computer Science
 - Dean's List
-- GPA: 11.42/12.00
+- GPA: 11.43/12.00
 
 **McGill University** - _Montreal, QC_\
 Sep 2011 - Oct 2015\
